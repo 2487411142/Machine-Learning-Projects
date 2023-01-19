@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-##Project 1 - K-Nearest Neighbors and Decision Tree
+## Project 1 - K-Nearest Neighbors and Decision Tree
 
 In project 1, we implement two machine learning methods, K-Nearest
 Neighbors (KNN) and Decision Tree (DT) on two datasets to investigate and compare
@@ -9,7 +9,7 @@ model generates slightly better results, but the time cost of the DT is much lar
 KNN. Also, the weighted KNN model would help to reduce the effect on the model
 accuracy from the extreme values in the training dataset.
 
-##Project2 - Logistic Regression and Multiclass Regression
+## Project2 - Logistic Regression and Multiclass Regression
 
 In this project, we evaluate several classification methods, including the logistics
 regression model, multiclass regression, and KNN on two datasets to investigate and evaluate
@@ -21,7 +21,7 @@ performs better on datasets with multiple categories target variable; a large nu
 leads to bad performance for KNN in both cases; the size of the training dataset could slightly
 improve the model performance.
 
-##Project3 - Multi-Layer Perceptron and Convolutional Neural-Networks
+## Project3 - Multi-Layer Perceptron and Convolutional Neural-Networks
 
 In the project, we implement the different neural-network methods, including
 Multi-Layer Perceptron(MLP) with different numbers of layers and activation functions, and
